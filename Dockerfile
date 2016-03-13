@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM resin/rpi-raspbian:latest
 MAINTAINER TAGOMORI Satoshi <tagomoris@gmail.com>
 LABEL Description="Fluentd docker image" Vendor="Fluent Organization" Version="1.0"
 
