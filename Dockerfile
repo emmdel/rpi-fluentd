@@ -6,6 +6,7 @@ RUN apt-get update -y && apt-get install -y \
               autoconf \
               bison \
               build-essential \
+              ca-certificates \
               curl \      
               git \
               libffi-dev \              
